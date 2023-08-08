@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Reddit Demo Application</string>
+    <string name="share_with">Share with:</string>
+    <string name="onboard">We welcome you to the demo application that allows you to use the functionality of Reddit App.</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="name">Name:</string>
+    <string name="info">Info</string>
+    <string name="reddip_api">https://www.reddit.com%1$s</string>
+    <string name="text_plain">text/plain</string>
+</resources>
